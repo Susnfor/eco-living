@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eco-living/static/css/main.b34acaa5.css",
+    "main.js": "/eco-living/static/js/main.0c0abd63.js",
+    "static/media/bg3.jpg": "/eco-living/static/media/bg3.209d3ebdeea61b30a8cb.jpg",
+    "index.html": "/eco-living/index.html",
+    "main.b34acaa5.css.map": "/eco-living/static/css/main.b34acaa5.css.map",
+    "main.0c0abd63.js.map": "/eco-living/static/js/main.0c0abd63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34acaa5.css",
+    "static/js/main.0c0abd63.js"
+  ]
+}

@@ -31,9 +31,9 @@ let toggleClassCheck2 = showNav ? 'active': '';
     <div className={`nav-container${toggleClassCheck2}`}>
         <div className='navbar'>
           <ul className={`menu${toggleClassCheck}`}>
-          <li><Link to='/'>Home</Link></li>
-            <li><Link to='/about'>About</Link></li>
-            <li><Link to='/contact'>Contact</Link></li>
+          <li><Link to='/eco-living/'>Home</Link></li>
+            <li><Link to='/eco-living/about'>About</Link></li>
+            <li><Link to='/eco-living/contact'>Contact</Link></li>
           </ul>
           <div className='icon'>
           <FontAwesomeIcon icon={faArrowRightToBracket} onClick={toggleMenu}> </FontAwesomeIcon>
